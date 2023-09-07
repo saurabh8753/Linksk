@@ -4,5 +4,5 @@ BOT_TOKEN    = "6543802429:AAGfd93pFN-xUtSjGOJ9YJgn2O9-he6uePw"
 SESSION      = ""
 DATABASE_URI = "mongodb+srv://saurabhbankar32323:KlwI1AbnyunPzOEA@cluster0.xgsn1ex.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  = -1001954311684
-ADMIN        = 1350642629
+ADMIN        = 6131352075
 CHANNEL      = "@GreyMatter_Bots"
